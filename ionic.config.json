@@ -1,0 +1,8 @@
+{
+  "name": "EB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "eafc10be"
+}
